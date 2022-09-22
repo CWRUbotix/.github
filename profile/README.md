@@ -9,5 +9,7 @@ The MATE ROV Competition is an international competition hosted by the Marine Ad
 
 If you're joining our software team, check out the setup [here](https://github.com/cwruRobotics/.github/wiki/MATE-Software-Setup).
 
+If you're testing ROV motors and need to use the 2022 GUI, head over [here](https://github.com/cwruRobotics/rov-22/wiki/Testing-Thrusters).
+
 ### [NRC](https://www.cwrubotix.org/nrc.html)
 The National Robotcs Challenge (NRC) is a collection of robotics competitions rolled into one large event. Held nearby in Marion, Ohio in the beginning of April, the competitions are open to students from 6th grade through graduate school. Competitions range from combat robots to pick and place machines to hockey playing robots. In 2022, our teams participated in the Combat, and Micromouse competitions.
